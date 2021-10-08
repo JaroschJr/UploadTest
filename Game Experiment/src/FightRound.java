@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+import java.util.ArrayList; // I should comment more in these.
 public class FightRound extends ArrayList<FightAction> {
 	public int roundTime = 200;
 	public void insertCharacterActions(FightEntity e) {
