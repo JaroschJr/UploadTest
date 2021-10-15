@@ -22,8 +22,5 @@ public class FightRound extends ArrayList<FightAction> {
 				}
 			}
 		}
-	}
-	
-	
-	
+	}	
 }
